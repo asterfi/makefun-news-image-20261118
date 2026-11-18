@@ -6,6 +6,8 @@
 
 Sum up 18 November's world news in one image — a 1024x1024 newspaper front page drawn by a Node program, for make.fun's "Sum up 18 November's world news in one image" bounty, $250 in USDC.
 
+v2 is a dense edition: 37 stories across 6 continents, with a world map, 6 featured panels and 30 more stories in region lists.
+
 ## Run it
 
 ```sh
@@ -34,26 +36,52 @@ Run it locally:
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-## The day it sums up — Wednesday 18 November 2026
+## The day it sums up — Wednesday 18 November 2026 (v2, 37 stories)
 
-1. **Summits — Trump in Manila for Quad, then Shenzhen.** Trump arrived in
-   Manila for Quad talks ahead of his China visit; APEC opened in Shenzhen,
-   and the first-ever Trump–Xi–Putin trilateral summit was set for 19 Nov.
-2. **Ukraine — Ukraine hits Crimea bridge.** Kyiv struck the Kerch Strait
-   (Crimean) bridge in a combined missile and drone operation, as Russia hit
-   bridges in Kyiv, ahead of the Trump–Xi–Putin meeting.
-3. **Middle East — Iran hits US radar in Bahrain.** A drone attack on a US
-   military radar facility in Bahrain, the third strike on the country in
-   five days, as US–Iran tensions rose.
-4. **Health, USA — US loses measles-free status.** More than 5,400 measles
-   cases reported in the US this year, its worst outbreak in over three
-   decades; the Pan American Health Organization declared measles no longer
-   eradicated in the US.
-5. **Weather, India — Cyclone Akvan nears India.** Cyclone Akvan heading for
-   the Andhra Pradesh coast, expected to hit on 20 Nov with 120 km/h winds.
-6. **Also today (ticker):** GTA VI launches tomorrow (19 Nov); MS Dhoni
-   retires from the IPL.
+**Hero — Summits:** Trump in Manila for Quad, then Shenzhen for APEC; the
+first-ever Trump–Xi–Putin trilateral summit set for 19 Nov.
 
-Sources checked on 18 Nov 2026: NDTV, The Manila Times, The Japan Times,
-Jagran Josh / Times Now school-assembly roundups, Raj Global Studies'
-18 Nov current-affairs summary.
+**Featured (6):** Ukraine hits Crimea bridge (second night in a row);
+Iran hits US radar in Bahrain (third strike in five days); US loses
+measles-free status (5,400 cases, worst in 30 years); Cyclone Akvan nears
+India (severe storm, landfall 20 Nov); UN warns of cold deaths in Gaza
+(1.7M displaced); COP31 in Antalya has 144 items still disputed.
+
+**Asia (5):** Japan protests Russian airspace violation; Taiwan awaits
+Trump's OK of a 14bn arms sale; Mongolia's president resigns amid graft
+charges; Bangladesh clashes, leader killed; Malaysia condemns Gaza
+displacement at ASEAN.
+
+**Europe (5):** Ex-Kosovo leader Thaci guilty over witnesses; Turkey takes
+over an opposition-linked TV station; France tests M51.3 missile from a
+submarine; Estonia closes Russia border after sabotage bid; Germany and
+Norway to fund Ukraine air defences.
+
+**Middle East (5):** US sinks five Iranian tankers near Hormuz; Yemen law
+designates Houthis as terrorists; Houthis advance on Aden as forces pull
+out; Eisenkot tapped to form Israel's government; Bahrain all-clear after
+threat warning.
+
+**Africa (5):** Mozambique opposition leader Mondlane's trial begins; UN:
+2,230 civilians killed in Sudan in 2026; Ebola cases double in DR Congo;
+Eritrea accuses Ethiopia of territorial claims; five nations plan a Rwanda
+hub for migrants.
+
+**Americas (5):** Biden memoir calls Putin a "teenager" and Zelensky
+"moody"; US judge blocks new student visa rules; Democrats eye first
+Black House speaker; Pakistani jailed 27 years over Trump plot; US details
+12bn in Venezuela oil revenue.
+
+**Sport + Culture (5):** India beat Pakistan 2-1 for a 10th SAFF title;
+Dhoni retires from IPL, becomes CSK mentor; GTA VI launches tomorrow
+(19 Nov); Pattinson named the next James Bond; Russian military plane
+crashes in Siberia, 19 dead.
+
+**Also today (ticker):** Alcaraz beats Tiafoe 6-2, 6-2 at the ATP Finals;
+"Human" is Cambridge Dictionary's word of the year; Apple joins a parade
+of tech hiccups.
+
+Sources checked on 18 Nov 2026: NDTV, The Manila Times, The Hindu / The
+Hindu BusinessLine, Philstar, Channel News Asia, Bangkok Post, Qatar
+Tribune, Jagran Josh / Times Now school-assembly roundups, Raj Global
+Studies' 18 Nov current-affairs summary.
